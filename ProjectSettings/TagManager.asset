@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Fire
+  - Coins
+  - Hero
+  - Key
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Coins
+  - StoneAnimetedPlatform
+  - Key
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2904706753
+    locked: 0
+  - name: HealthBarLayer
+    uniqueID: 1345863761
+    locked: 0
+  - name: Coins
+    uniqueID: 2636739639
+    locked: 0
+  - name: Key
+    uniqueID: 1291308813
+    locked: 0
+  - name: StoneAnimetedPlatform
+    uniqueID: 506455109
+    locked: 0
+  - name: HeroLayer
+    uniqueID: 3749156985
+    locked: 0
+  - name: FrontNew
+    uniqueID: 662850219
+    locked: 0
+  - name: Boxpush
+    uniqueID: 175053591
+    locked: 0
+  - name: Enemy
+    uniqueID: 2272274823
+    locked: 0
